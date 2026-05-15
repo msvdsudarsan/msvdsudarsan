@@ -28,6 +28,13 @@ https://www.researchgate.net/profile/Sudarsan-Madhyannapu
 arXiv:
 https://arxiv.org/a/madhyannapu_s_1.html
 
+GitHub:
+https://github.com/msvdsudarsan
+
+Zenodo:
+https://zenodo.org
+
+
 ## Selected Research Repositories
 
 - ann-singular-matrix-differential-systems
