@@ -23,10 +23,10 @@ Google Scholar:
 https://scholar.google.com/citations?user=8LAGLi4AAAAJ
 
 ResearchGate:
-https://www.researchgate.net/profile/Sudarsan-Madhyannapu
+https://www.researchgate.net/profile/Sri-Venkata-Durga-Sudarsan-Madhyannapu
 
 arXiv:
-https://arxiv.org/a/madhyannapu_s_1.html
+https://arxiv.org/search/?searchtype=author&query=Madhyannapu%2C+S+V+D+S
 
 GitHub:
 https://github.com/msvdsudarsan
