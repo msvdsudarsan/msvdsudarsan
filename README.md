@@ -1,4 +1,4 @@
-# Sri Venkata Durga Sudarsan Madhyannapu
+# Sri Venkata Durga Sudarsan M
  
 Associate Professor, Dr. RVR NRI Institute of Technology (Deemed to be University), Pothavarappadu Village, Agiripalli Mandal 521212, Andhra Pradesh, India
 
